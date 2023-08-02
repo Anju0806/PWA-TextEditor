@@ -31,7 +31,7 @@ if (editor.initialized) {
 } else {
   // The editor was not properly initialized, show the spinner
   console.log('Editor is not yet initialized. Showing the spinner...');
-  loadSpinner();
+  //loadSpinner();
 }
 
 
