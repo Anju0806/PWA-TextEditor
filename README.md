@@ -1,4 +1,4 @@
-# PWA-TextEditor
+<img width="1239" alt="Screenshot 2023-08-02 at 9 20 04 pm" src="https://github.com/Anju0806/PWA-TextEditor/assets/126565826/a46b338b-b69c-4295-b8e6-7fb73f4a04fb"># PWA-TextEditor
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A text editor that runs in the browser , is a single-page application that meets the PWA criteria. 
@@ -52,6 +52,10 @@ Access the application in your browser at the specified address (e.g.: http://lo
 5. Submit a pull request explaining your changes.
 
  ## Screenshots
+<img width="1239" alt="Screenshot 2023-08-02 at 9 20 04 pm" src="https://github.com/Anju0806/PWA-TextEditor/assets/126565826/84bac830-a0ce-469a-93a3-4fe12c008117">
+<img width="1342" alt="Screenshot 2023-08-02 at 9 19 23 pm" src="https://github.com/Anju0806/PWA-TextEditor/assets/126565826/a9d18704-7478-4671-b948-f2e5d3973153">
+<img width="1234" alt="Screenshot 2023-08-02 at 9 20 15 pm" src="https://github.com/Anju0806/PWA-TextEditor/assets/126565826/49e7b735-1434-4441-a768-1ff769ed18a7">
+
 
  ## Questions
  If you have any questions about the repo, please open an issue or contact me at anjualfino@gmail.com. 
