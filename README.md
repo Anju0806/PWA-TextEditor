@@ -1,4 +1,4 @@
-<img width="1239" alt="Screenshot 2023-08-02 at 9 20 04 pm" src="https://github.com/Anju0806/PWA-TextEditor/assets/126565826/a46b338b-b69c-4295-b8e6-7fb73f4a04fb"># PWA-TextEditor
+# PWA-TextEditor
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A text editor that runs in the browser , is a single-page application that meets the PWA criteria. 
