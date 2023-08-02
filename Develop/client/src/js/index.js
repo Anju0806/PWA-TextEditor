@@ -2,9 +2,13 @@ import { Workbox } from 'workbox-window';
 import Editor from './editor';
 import './database';
 import '../css/style.css';
-
+import jateIcon from './../images/logo.png';
+console.log('aabbabababa')
 const main = document.querySelector('#main');
 main.innerHTML = '';
+const navIconImgEl = document.querySelector('.navbar-brand>img');
+console.log('abbcccc', jateIcon, {navIconImgEl})
+navIconImgEl.src = jateIcon;
 
 const loadSpinner = () => {
   const spinner = document.createElement('div');
