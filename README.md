@@ -9,7 +9,6 @@ The PWA-TextEditor is a browser-based text editor application that fulfills the 
 ## Table of Contents
 
  - Installation and Usage
- - PWA-TextEditor Features
  - License
  - The URL of the deployed application(Heroku)
  - Contributing
@@ -17,7 +16,7 @@ The PWA-TextEditor is a browser-based text editor application that fulfills the 
  - Questions
 
  ## Installation and Usage
-
+ 
 To set up and run the PWA-TextEditor application, follow these steps:
 
 Clone the repository from GitHub.
@@ -36,11 +35,11 @@ Start the development servers for both client and backend using the following co
 
 Access the application in your browser at the specified address (e.g.: http://localhost:3000).
 
- ## PWA-TextEditor Features
  ## License
  This project is licensed under the MIT .
 
  ## The URL of the deployed application(Heroku)
+https://secure-beach-26663-2a46e115c250.herokuapp.com/
 
  ## Contributing
  Contributions are welcome! If you would like to contribute to this project, please follow these guidelines:
